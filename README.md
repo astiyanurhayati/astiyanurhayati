@@ -3,7 +3,7 @@
        <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
     </div>
 
-<h3 align="center">Interested in Web Development</h3>
+<h3 align="center">Web Development</h3>
 
 
 - 🌱 I’m currently learning **Laravel**
